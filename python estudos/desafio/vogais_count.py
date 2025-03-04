@@ -3,7 +3,6 @@ Escreva um programa que peça ao usuário para digitar uma frase e depois conte 
 (a, e, i, o, u) há nessa frase. O programa deve exibir o total de vogais encontradas.
 """
 
-
 palavra = input("Escreva uma frase!")
 vogais = "AEIOUaeiou"
 contador_vogal = 0
